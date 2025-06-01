@@ -1,0 +1,9 @@
+{
+	"name": "adfinstamart",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f0cf52f-d76d-4db2-a63b-2e41c32ade19",
+		"tenantId": "6f2c2d9b-8a10-4e72-b1a9-f0be9b765e28"
+	}
+}
